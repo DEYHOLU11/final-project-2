@@ -1,0 +1,12 @@
+body{
+    
+    margin-left:10px;
+    margin-right:10px
+}
+.wrapper {
+background-color:rgb(28, 10, 185);
+ border: 4px solid rgba(0, 0, 0, 0.774);
+ width: 420px;
+ color: white;
+ padding: 20px;
+}
